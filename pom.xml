@@ -4,13 +4,13 @@
     <groupId>project002</groupId>
     <artifactId>project002</artifactId>
     <version>1.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>project002</name>
     <url>http://maven.apache.org</url>
     <developers>
         <developer>
-            <name>Sascha Tayefeh</name>
-            <url>http://www.tayefeh.de</url>
+            <name>Felipe Talavera</name>
+            <url>www.example.cl</url>
         </developer>
     </developers>
     <dependencies>
